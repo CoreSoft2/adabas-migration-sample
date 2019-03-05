@@ -47,7 +47,7 @@ ADADCU FIELDS AA,',',AC,',',AE,',',AD,',',AF,',',AG,',',AH,7,U,',',AI1,',',AI2,'
 ### Step4: creation of target DB table and load data into it (Update.bat)
 
 #### Description:
-This batch file runs the perl script CSVTOSQL.pl to convert the CSV data file into table load/Insert script file. Finally, runs MySQL commands to execute the create DDL script and Insert script files which will create Table, keys & indexes and load data into it.
+This batch file runs the perl script CSVTOSQL.pl to convert the CSV data file into table load/Insert script file. Finally, runs MySQL commands to execute the create DDL script and Insert script files which will create Table, keys & indexes and load data into it. Here in the mysql commands, use your database username and password instead of defaults (root).
 
 #### Code Snippet:
 ~~~
