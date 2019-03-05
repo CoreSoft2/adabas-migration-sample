@@ -34,7 +34,7 @@ cd\
 cd c:\software ag\adabas
 ~~~
 
-### Step3: Transforming the extracted data into target DB loadable format (Transform.bat)
+### Step3: Transformation of extracted data into target DB loadable format (Transform.bat)
 
 #### Description:
 This batch file executes ADABAS command ADADCU to decompress the unloaded compressed format data (extracted in step1). A comma separated data file generated from this step as output.
