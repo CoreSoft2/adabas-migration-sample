@@ -65,3 +65,5 @@ Using these scripts executed in above order, ADABAS table EMP_NAT layout and dat
 There is an article published on ADABAS Database to RDBMS migration concept & approach in the below link by me. Please go thru it to get conceptual idea.
 
 #### https://dzone.com/articles/migration-of-legacy-dbfile-structure-to-rdbms
+
+### Disclaimer: This is not an official HCL ERS product.
